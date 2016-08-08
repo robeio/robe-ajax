@@ -11,6 +11,7 @@
     "url": "git+https://github.com/robeio/robe-ajax.git"
   },
   "keywords": [
+    "robe",
     "ajax",
     "jquery"
   ],
