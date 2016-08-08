@@ -1,5 +1,5 @@
 {
-  "name": "robe-jajax",
+  "name": "robe-ajax",
   "version": "1.0.0",
   "description": "exported ajax library from jquery",
   "main": "./index",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robeio/robe-jajax.git"
+    "url": "git+https://github.com/robeio/robe-ajax.git"
   },
   "keywords": [
     "ajax",
     "jquery"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/robeio/robe-jajax#readme"
+  "homepage": "https://github.com/robeio/robe-ajax#readme"
 }

@@ -1,4 +1,4 @@
-## robe-jajax
+## robe-ajax
 
 ### Motivation
  
@@ -8,7 +8,7 @@
 #### installitation
 
 ```ssh
-npm install jajax
+npm install robe-ajax
 ```
 
 #### usage 
@@ -17,7 +17,7 @@ Javascript :
 
 ```javascript
 
-var jajax = require("jajax");
+var jajax = require("robe-ajax");
 
 // call jajax.ajax like $.ajax
 
@@ -35,7 +35,7 @@ ES6 :
 
 ```javascript
 
-import jajax from "jajax";
+import jajax from "robe-ajax";
 
 // call jajax.ajax like $.ajax
 
